@@ -43,3 +43,6 @@ stefanprodan/faas-grafana:4.6.3
 ```
 
 URL: `http://<SWARM_IP>:3000/dashboard/db/openfaas`
+
+### ARM
+You can use the arm image instead `stefanprodan/faas-grafana-armhf:4.6.3`
